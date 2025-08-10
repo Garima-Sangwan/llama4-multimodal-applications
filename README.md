@@ -58,7 +58,7 @@ This repository contains practical implementations and code examples that demons
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/llama4-multimodal-applications.git
+   git git clone https://github.com/Garima-Sangwan/llama4-multimodal-applications.git
    cd llama4-multimodal-applications
    ```
 
