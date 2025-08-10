@@ -20,16 +20,12 @@ This repository contains practical implementations and code examples that demons
 
 ```
 ├── notebooks/
-│   ├── 01_quickstart_llama4_api.ipynb
-│   ├── 02_image_grounding.ipynb
-│   ├── 03_prompt_formatting.ipynb
-│   ├── 04_long_context_processing.ipynb
-│   ├── 05_prompt_optimization.ipynb
-│   ├── 06_synthetic_data_kit.ipynb
-│   └── 07_multilingual_translator.ipynb
-├── assets/
-│   ├── images/
-│   └── sample_data/
+│   ├── image_grounding.ipynb
+│   ├── prompt_formatting.ipynb
+│   ├── long_context_processing.ipynb
+│   ├── prompt_optimization.ipynb
+│   ├── synthetic_data_kit.ipynb
+│   └── multilingual_translator.ipynb
 ├── requirements.txt
 ├── .gitignore
 └── README.md
